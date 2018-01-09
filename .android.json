@@ -1,0 +1,1 @@
+{"layout": null, "package": "ru.saber_nyan.trv", "include_pil": false, "numeric_version": "100", "expansion": false, "name": "test-renpy-vn", "source": false, "icon_name": "test-renpy-vn", "version": "1.0.0", "target_version": 14, "permissions": ["VIBRATE"], "include_sqlite": false, "store": "none", "orientation": "sensorLandscape"}
